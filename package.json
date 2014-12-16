@@ -1,6 +1,6 @@
 {
   "name": "angular-module-aria",
-  "version": "1.3.0",
+  "version": "1.3.7",
   "description": "Aria AngularJS module suitable for bundling with Browserify or Webpack",
   "main": "angular-aria.js",
   "scripts": {
